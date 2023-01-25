@@ -21,6 +21,12 @@ and opens the target website on a new chrome window with imported cookies.
 
 ![blured_logged_in](https://user-images.githubusercontent.com/29146438/212050681-a0d9d3fa-ff5c-4e78-95d0-c6802cdf8095.png)
 
+Required cookies for known websites:
+
+![website_cookies_list](https://user-images.githubusercontent.com/29146438/214552057-43490d23-6228-4dc8-9445-10bf9c8e673e.png)
+
+
+
 setup cookie files:
 
 +++++++++++++++++++++++++++++
